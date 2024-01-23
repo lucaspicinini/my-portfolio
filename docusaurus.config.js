@@ -38,6 +38,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'img/social-card.jpg',
       navbar: {
         title: 'Home',
         logo: {
